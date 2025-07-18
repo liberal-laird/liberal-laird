@@ -2,9 +2,9 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## liberal laird 🌻
-- 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
+- 🔭 I’m a  Software Engineer from Home
 - 👯 I write about technologies that interest me in [My Blog](https://feedscoin.com).
-- 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
+- 💬 Let's talk about Language Technologies, Cloud Orchestration, and SRE.
 - 📫 **How to reach me**: [Twitter](https://twitter.com/cuper_eth)
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
 
